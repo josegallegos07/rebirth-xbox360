@@ -26,3 +26,7 @@ and/or
 ```
 ~/Library/Application\ Support/Binding\ of\ Isaac\ Rebirth/inputconfigs.dat
 ```
+
+### Mac Driver
+
+This one: [https://github.com/360Controller/360Controller/releases/tag/v0.16](https://github.com/360Controller/360Controller/releases/tag/v0.16)
